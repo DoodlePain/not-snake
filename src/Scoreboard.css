@@ -1,0 +1,16 @@
+@font-face{
+    font-family: Gameplay;
+    src: url('Gameplay.ttf');
+}
+
+.Title-scoreboard{
+    color: white;
+    font-family: 'Gameplay','Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 350%;
+}
+
+.Score{
+    font-family: 'Gameplay','Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 190%;
+    color: rgba(255, 255, 255, 0.564);
+}
